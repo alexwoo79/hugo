@@ -24,4 +24,4 @@ hugo server
 
 4. Point your browser to [localhost:1313](http://localhost:1313) to view the presentation.
 
-5. Edit content in [content/_index.md](content/_index.md).
+5. Edit content in content/index.md content/posts/project1/ 等等
