@@ -11,7 +11,7 @@ To see the presentation live, visit [programming-quotes.netlify.com](https://pro
 2. Clone this repository including submodules (the theme is a submodule):
 
 ```shell
-git clone git@github.com:dzello/programming-quotes --recurse-submodules
+git clone https://github.com/alexwoo79/hugo.git --recurse-submodules
 ```
 
 3. Change directories and run hugo in server mode:
