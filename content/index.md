@@ -5,7 +5,7 @@ title = "Famous Programming Quotes"
 layout = "list"
 
 [reveal_hugo]
-theme = "league"
+theme = "sky"
 # highlight_theme = "solarized-dark"
 slide_number = true
 transition = "zoom"
@@ -17,8 +17,8 @@ transition = "zoom"
 ---
 ## 一些重要页面
 
-- [导航到project1](/posts/project1/1/)
-- [导航到project2](/posts/project2/2/)
+- [导航到project1](/posts/project1/1)
+- [导航到project2](/posts/project2/2)
 
 ---
 
@@ -341,7 +341,7 @@ func main() {
 
 {{< slide id="hello" background="#FFF" transition="zoom" transition-speed="fast" >}}
 
-# Hello 
+# go go go!
 
 # 建筑大师傅!
 

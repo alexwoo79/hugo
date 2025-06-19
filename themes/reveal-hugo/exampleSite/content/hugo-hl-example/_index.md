@@ -111,3 +111,4 @@ plugins = [
   "reveal-js/plugin/zoom-js/zoom.js",
   "reveal-js/plugin/notes/notes.js",
 ]
+{{< / highlight  >}}

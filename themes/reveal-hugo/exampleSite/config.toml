@@ -9,7 +9,7 @@ themesDir = "../"
 # relativeURLs = true
 # uglyURLs = true
 
-[author]
+[Params.Author]
 name = "Josh Dzielak"
 
 # currently only the unsafe mode for goldmark is supported
