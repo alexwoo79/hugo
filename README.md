@@ -17,8 +17,7 @@ git clone https://github.com/alexwoo79/hugo.git --recurse-submodules
 3. Change directories and run hugo in server mode:
 
 ```shell
-cd programming-quotes
-
+cd hugo
 hugo server
 ```
 
